@@ -51,7 +51,7 @@ const Hero = () => {
             >
               <span>Hi, I'm</span>
               <br />
-              <span className="text-gray-400">PRASHANTH CHANDHAR</span>
+              <span className="text-gray-400">PRASHANTH CHANDER</span>
             </motion.h1>
             <motion.h2
               className="text-3xl md:text-4xl text-gray-300 font-extrabold mb-6"

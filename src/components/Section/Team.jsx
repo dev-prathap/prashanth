@@ -32,7 +32,7 @@ export const Team = () => {
               <ul className="flex justify-center mt-4 space-x-4">
                 <li>
                   <a
-                    href="#"
+                    href=""
                     className="text-[#39569c] hover:text-gray-900  hover:text-white"
                   >
                     <svg
