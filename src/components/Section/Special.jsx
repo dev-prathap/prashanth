@@ -3,17 +3,15 @@ const Special = () => {
     <section id="special" className="bg-primary text-white">
       <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
         <div className="mx-auto max-w-lg text-center">
-          <h5 className="text-2xl leading-tight font-bold">SPECIALITY</h5>
+          <h5 className="text-2xl leading-tight font-bold">OUR SPECIALITIES</h5>
           <p className="mt-4 text-gray-300">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Consequuntur aliquam doloribus nesciunt eos fugiat. Vitae aperiam
-            fugit consequuntur saepe laborum.
+            We specialize in a diverse range of services, from crafting impactful digital marketing campaigns to professional cinema shooting, ad production, small creative projects, and other media solutions tailored for you.
           </p>
         </div>
 
         <div className="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           <a
-            className="block items-center rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-violet-500/10 hover:shadow-violet-700/10 content-center justify-center text-center"
+            className="block items-center rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-violet-500/10 hover:shadow-violet-700/10 text-center"
             href="#"
           >
             <svg
@@ -23,27 +21,21 @@ const Special = () => {
               viewBox="0 0 24 24"
               stroke="currentColor"
             >
-              <path d="M12 14l9-5-9-5-9 5 9 5z" />
-              <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 strokeWidth="2"
-                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                d="M3 10h11M9 21V3m3 6h8M17 3l4 4m0 0l-4 4m4-4H9"
               />
             </svg>
-            <h2 className="mt-4 text-xl font-bold text-white">
-              Digital campaigns
-            </h2>
+            <h2 className="mt-4 text-xl font-bold text-white">Digital Marketing</h2>
             <p className="mt-1 text-sm text-gray-300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis
-              laudantium.
+              Strategize, promote, and grow your brand with expert digital campaigns, SEO, and social media management.
             </p>
           </a>
 
           <a
-            className="block items-center rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-violet-500/10 hover:shadow-violet-700/10 content-center justify-center text-center"
+            className="block items-center rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-violet-500/10 hover:shadow-violet-700/10 text-center"
             href="#"
           >
             <svg
@@ -53,27 +45,22 @@ const Special = () => {
               viewBox="0 0 24 24"
               stroke="currentColor"
             >
-              <path d="M12 14l9-5-9-5-9 5 9 5z" />
-              <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 strokeWidth="2"
-                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                d="M15 10l4.586-4.586A2 2 0 0119 3h3a2 2 0 012 2v3a2 2 0 01-.586 1.414L18 10"
               />
+              <path d="M3 10h12v10H3z" />
             </svg>
-            <h2 className="mt-4 text-xl font-bold text-white">
-              Digital campaigns
-            </h2>
+            <h2 className="mt-4 text-xl font-bold text-white">Cinema Shooting & Ads</h2>
             <p className="mt-1 text-sm text-gray-300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis
-              laudantium.
+              Delivering high-quality cinema shoots, ad productions, and creative visual content for your business needs.
             </p>
           </a>
 
           <a
-            className="block items-center rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-violet-500/10 hover:shadow-violet-700/10 content-center justify-center text-center"
+            className="block items-center rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-violet-500/10 hover:shadow-violet-700/10 text-center"
             href="#"
           >
             <svg
@@ -83,22 +70,16 @@ const Special = () => {
               viewBox="0 0 24 24"
               stroke="currentColor"
             >
-              <path d="M12 14l9-5-9-5-9 5 9 5z" />
-              <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 strokeWidth="2"
-                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                d="M12 8v4m0 4h.01M9 21h6a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 002 2z"
               />
             </svg>
-            <h2 className="mt-4 text-xl font-bold text-white">
-              Digital campaigns
-            </h2>
+            <h2 className="mt-4 text-xl font-bold text-white">Creative Projects</h2>
             <p className="mt-1 text-sm text-gray-300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis
-              laudantium.
+              From small projects to custom solutions, we bring your vision to life with tailored creative services.
             </p>
           </a>
         </div>
@@ -108,7 +89,7 @@ const Special = () => {
             href="#"
             className="inline-block rounded bg-white px-12 py-3 text-sm font-medium text-primary transition hover:bg-gray-400 focus:outline-none focus:ring focus:ring-yellow-400"
           >
-            Get Started Today
+            Explore Our Services
           </a>
         </div>
       </div>
